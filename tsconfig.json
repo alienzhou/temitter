@@ -1,0 +1,36 @@
+{
+  "ts-node": {
+    "transpileOnly": true,
+    "moduleTypes": {
+      "jest.config.ts": "cjs"
+    }
+  },
+  "compilerOptions": {
+    "module": "esnext",
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "target": "esnext",
+    "sourceMap": false,
+    "esModuleInterop": true,
+    "incremental": true,
+    "allowJs": true,
+    "lib": [
+      "ESNext"
+    ],
+    "outDir": "./lib",
+    "rootDir": "./src",
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": ["node_modules", "lib", "__tests__"]
+}

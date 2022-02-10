@@ -1,0 +1,16 @@
+/lib
+/node_modules
+.DS_Store
+.vscode
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+coverage
+.nyc_output
+tsconfig.tsbuildinfo
+*.log.gz
+logs
+example-out
+.nyc_output
+coverage
