@@ -2,7 +2,7 @@
 
 > a **T**ype-safe & **T**iny Event **Emitter**
 
-[![Build](https://api.travis-ci.org/alienzhou/temitter.svg?branch=master)](https://travis-ci.org/alienzhou/temitter)   [![NPM version](https://img.shields.io/npm/v/temitter.svg)](https://www.npmjs.com/package/temitter)  [![Coverage Status](https://coveralls.io/repos/github/alienzhou/temitter/badge.svg?branch=master)](https://coveralls.io/github/alienzhou/temitter?branch=master)   [![codebeat badge](https://codebeat.co/badges/cfd98455-1e33-4d87-b3a1-582780f5eda0)](https://codebeat.co/projects/github-com-alienzhou-temitter-main)   [![MIT License](https://img.shields.io/github/license/alienzhou/temitter)](https://opensource.org/licenses/mit-license.php)
+[![Build Status](https://app.travis-ci.com/alienzhou/temitter.svg?branch=main)](https://app.travis-ci.com/alienzhou/temitter)   [![NPM version](https://img.shields.io/npm/v/temitter.svg)](https://www.npmjs.com/package/temitter)  [![Coverage Status](https://coveralls.io/repos/github/alienzhou/temitter/badge.svg?branch=main)](https://coveralls.io/github/alienzhou/temitter?branch=main)   [![codebeat badge](https://codebeat.co/badges/cfd98455-1e33-4d87-b3a1-582780f5eda0)](https://codebeat.co/projects/github-com-alienzhou-temitter-main)   [![MIT License](https://img.shields.io/github/license/alienzhou/temitter)](https://opensource.org/licenses/mit-license.php)
 
 ## Features
 

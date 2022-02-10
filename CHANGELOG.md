@@ -1,8 +1,8 @@
 # CHANGELOG
 
-## v0.1.0
+## v1.0.0
 
-🎉 First Release. Support
+🎉 First Release.
 
 ### Features
 
